@@ -1,5 +1,5 @@
 {
-  "name": "ray-trace",
+  "name": "ray-trace-glsl",
   "version": "1.0.0",
   "description": "ray-trace on webgl",
   "main": "index.js",

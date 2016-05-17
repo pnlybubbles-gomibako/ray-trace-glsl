@@ -1,3 +1,3 @@
-# Ray-trace
+# Ray-trace-glsl
 
 Ray-trace on WebGL
